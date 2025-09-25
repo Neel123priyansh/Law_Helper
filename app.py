@@ -136,7 +136,6 @@ def generate_improved_clauses(document_text, recommendations, llm):
     return response["text"]
 
 def analyze_risk(document_text):
-    # 👉 Replace this with AI logic to classify risks from the doc text
     return {
         "Liability": "High Risk",
         "Termination": "Medium Risk",
@@ -286,7 +285,6 @@ def main():
                 st.markdown("### ✨ Improved Clauses")
                 st.markdown(improved_text)
                 st.session_state.messages.append({"role": "assistant", "content": improved_text})
-
 
             if st.session_state.retriever_uploaded is None:
                 st.warning("Please upload and process a document first.")
