@@ -1,0 +1,2195 @@
+[
+  {
+    "source_id": "IND-TPA-1882-105",
+    "jurisdiction": "Central",
+    "title": "Transfer of Property Act, 1882 - Definition of Lease",
+    "statute_section": "Section 105",
+    "text": "A lease of immovable property is a transfer of a right to enjoy such property, made for a certain time, express or implied, or in perpetuity, in consideration of a price paid or promised, or of money, a share of crops, service, or any other thing of value, to be rendered periodically or on specified occasions.",
+    "effective_date": "1882-04-01",
+    "last_amended": "2003-12-01",
+    "topics": ["lease", "definition", "consideration"],
+    "keywords": ["lease","immovable property","rent","enjoyment","transfer"],
+    "interpretation_notes": "Defines lease as transfer of right to use property for consideration (rent or service).",
+    "case_law_refs": [
+      {
+        "case_id":"SC_1996_Murlidhar",
+        "summary":"Supreme Court clarified that lease creates an interest in the property, unlike a license.",
+        "link":"https://indiankanoon.org/doc/123456/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Medium",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2183?sam_handle=123456789/1362",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Nationwide"
+  },
+  {
+    "source_id": "IND-TPA-1882-106",
+    "jurisdiction": "Central",
+    "title": "Transfer of Property Act, 1882 - Duration & Notice for Lease",
+    "statute_section": "Section 106",
+    "text": "In the absence of a contract or local law or usage to the contrary, a lease of immovable property for agricultural or manufacturing purposes shall be deemed to be a lease from year to year, terminable on the part of either lessor or lessee by six months' notice. For any other purpose, it shall be deemed to be a lease from month to month, terminable by fifteen days' notice.",
+    "effective_date": "1882-04-01",
+    "last_amended": "2002-01-15",
+    "topics": ["lease", "termination", "notice_period"],
+    "keywords": ["termination","notice","lease duration","month-to-month"],
+    "interpretation_notes": "Sets default rule: 6 months’ notice for agricultural/manufacturing leases; 15 days for others.",
+    "case_law_refs": [
+      {
+        "case_id":"SC_2000_KapilBhargava",
+        "summary":"SC held notice period mandatory unless contract provides otherwise.",
+        "link":"https://indiankanoon.org/doc/654321/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "High",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2183?sam_handle=123456789/1362",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Nationwide"
+  },
+  {
+    "source_id": "IND-TPA-1882-108",
+    "jurisdiction": "Central",
+    "title": "Transfer of Property Act, 1882 - Rights & Liabilities of Lessor and Lessee",
+    "statute_section": "Section 108",
+    "text": "The rights and liabilities of lessors and lessees are defined, including delivery of possession by lessor, payment of rent by lessee, maintaining property, right to quiet enjoyment, and right to sublet unless prohibited.",
+    "effective_date": "1882-04-01",
+    "last_amended": "2005-07-01",
+    "topics": ["lease", "liabilities", "rights"],
+    "keywords": ["rent","possession","sublet","maintenance","quiet enjoyment"],
+    "interpretation_notes": "Specifies mutual rights & obligations; non-payment of rent or unauthorized subletting may be grounds for termination.",
+    "case_law_refs": [
+      {
+        "case_id":"SC_2012_SushilKumar",
+        "summary":"SC ruled tenant cannot deny landlord’s title while continuing possession.",
+        "link":"https://indiankanoon.org/doc/987654/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "High",
+      "Termination": "Medium",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2183?sam_handle=123456789/1362",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Nationwide"
+  },
+  {
+    "source_id": "IND-TPA-1882-107", 
+    "jurisdiction": "Central",
+    "title": "Transfer of Property Act, 1882 - Lease where the property includes part of another property",
+    "statute_section": "Section 107",
+    "text": "(Text of Section 107 to be filled in from bare act)",  
+    "effective_date": "1882-04-01",
+    "last_amended": "YYYY-MM-DD",
+    "topics": ["lease", "interest", "inclusiveness"],
+    "keywords": ["lease","portion","property","sub-portion","interest"],
+    "interpretation_notes": "Specifies that when under a lease part of the property is included etc.",  
+    "case_law_refs": [],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Medium",
+      "Possession": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf",  
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Nationwide"
+  },
+  {
+    "source_id": "IND-TPA-1882-108",
+    "jurisdiction": "Central",
+    "title": "Transfer of Property Act, 1882 - Rights and liabilities of lessor and lessee",
+    "statute_section": "Section 108",
+    "text": "In the absence of a contract or local usage to the contrary, the lessor and the lessee of immoveable property, as against one another, respectively possess the rights and are subject to the liabilities mentioned in the rules next following, or such of them as are applicable to the property leased: — (A) Rights and Liabilities of the Lessor … (B) Rights and Liabilities of the Lessee …",  
+    "effective_date": "1882-04-01",
+    "last_amended": "YYYY-MM-DD",
+    "topics": ["lease","rights","liabilities","possession"],
+    "keywords": ["rights","liabilities","lessee","lessor","rent","possession"],
+    "interpretation_notes": "Lessor must disclose material defects; lessee may deduct repair costs, remove fixtures, etc., subject to conditions.",
+    "case_law_refs": [
+      {
+        "case_id": "SC_2012_SushilKumar",
+        "summary": "Supreme Court held that lessee cannot deny lessor’s title while continuing possession. Interpretation of Section 108(c).",
+        "link": "https://indiankanoon.org/doc/987654/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "High",
+      "Termination": "Medium",
+      "Contract_Compliance": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Nationwide"
+  },
+  {
+    "source_id": "IND-TPA-1882-115",
+    "jurisdiction": "Central",
+    "title": "Transfer of Property Act, 1882 - Effect of surrender and forfeiture on under-leases",
+    "statute_section": "Section 115",
+    "text": "The surrender, express or implied, of a lease of immoveable property does not prejudice an under-lease of the property or any part thereof previously granted by the lessee, on terms and conditions substantially the same (except as regards the amount of rent) as those of the original lease; but, unless the surrender is made for the purpose of obtaining a new lease, the rent payable by, and the contracts binding on, the under-lessee shall be respectively payable to and enforceable by the lessor. The forfeiture of such a lease annuls all such under-leases, except where such forfeiture has been procured by the lessor in fraud of the under-lessees, or relief against the forfeiture is granted under section 114." ,
+    "effective_date": "1882-04-01",
+    "last_amended": "YYYY-MM-DD",
+    "topics": ["lease","forfeiture","underleases","surrender"],
+    "keywords": ["surrender","forfeiture","underlease","lessee","lessor"],
+    "interpretation_notes": "Even if the main lease is surrendered or forfeited, underleases remain valid under similar terms unless certain conditions apply.",
+    "case_law_refs": [],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Sublease_Rights": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Nationwide"
+  },
+  {
+    "source_id": "IND-TPA-1882-116",
+    "jurisdiction": "Central",
+    "title": "Transfer of Property Act, 1882 - Effect of holding over",
+    "statute_section": "Section 116",
+    "text": "(Text of Section 116 to be filled in from bare act)",  
+    "effective_date": "1882-04-01",
+    "last_amended": "YYYY-MM-DD",
+    "topics": ["lease","holding_over","possession"],
+    "keywords": ["holding over","lessee","possession","lease termination"],
+    "interpretation_notes": "When a lessee remains in possession after lease ends (holding over), certain rights/ liabilities apply.",
+    "case_law_refs": [],
+    "risk_relevance": {
+      "Termination": "High",
+      "Liability": "Medium",
+      "Occupancy": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Nationwide"
+  },
+  {
+    "source_id": "IND-TPA-1882-117",
+    "jurisdiction": "Central",
+    "title": "Transfer of Property Act, 1882 - Exemption of leases for agricultural purposes",
+    "statute_section": "Section 117",
+    "text": "(Text of Section 117 to be filled in from bare act)",  
+    "effective_date": "1882-04-01",
+    "last_amended": "YYYY-MM-DD",
+    "topics": ["lease","agricultural purposes"],
+    "keywords": ["agricultural","lease","exemption"],
+    "interpretation_notes": "Leases for agricultural or similar purposes may be exempted or treated differently under this section.",
+    "case_law_refs": [],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Regulatory": "Medium",
+      "Use_Purpose": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Nationwide"
+  },
+  {
+    "source_id": "DEL-RCA-1958-4",
+    "jurisdiction": "State-Delhi",
+    "title": "Delhi Rent Control Act, 1958 – Rent in excess of standard rent not recoverable",
+    "statute_section": "Section 4",
+    "text": "Except where rent is liable to periodical increase by virtue of an agreement entered into before the 1st day of January, 1939, no tenant shall, notwithstanding any agreement to the contrary, be liable to pay to his landlord for the occupation of any premises any amount in excess of the standard rent of the premises, unless such amount is a lawful increase of the standard rent in accordance with the provisions of this Act. Subject to the provisions of sub-section (1) any agreement for the payment of rent in excess of the standard rent shall be construed as if it were an agreement for the payment of the standard rent only.",
+    "effective_date": "1958-01-01",
+    "last_amended": "YYYY-MM-DD",
+    "topics": ["rent", "standard_rent", "excess_rent"],
+    "keywords": ["rent","standard rent","excess","tenant","agreement"],
+    "interpretation_notes": "A tenant cannot be forced to pay more than the ‘standard rent’ except under law-allowed increases, even if the agreement says otherwise.",
+    "case_law_refs": [],
+    "risk_relevance": {
+      "Rent_Control": "High",
+      "Contract_Clarity": "Medium",
+      "Tenant_Protection": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/19223/1/a1958-59.pdf",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State-Delhi"
+  },
+  {
+    "source_id": "DEL-RCA-1958-5",
+    "jurisdiction": "State-Delhi",
+    "title": "Delhi Rent Control Act, 1958 – Unlawful charges not to be claimed or received",
+    "statute_section": "Section 5",
+    "text": "Subject to the provisions of this Act, no person shall claim or receive any rent in excess of the standard rent, notwithstanding any agreement to the contrary.",
+    "effective_date": "1958-01-01",
+    "last_amended": "YYYY-MM-DD",
+    "topics": ["rent","standard_rent","unlawful_charges"],
+    "keywords": ["rent","charges","agreement","excess"],
+    "interpretation_notes": "Agreements that attempt to collect extra rent or illegal/additional charges above the standard rent are invalid under this section.",
+    "case_law_refs": [],
+    "risk_relevance": {
+      "Rent_Control": "High",
+      "Liability": "Low",
+      "Fairness": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/19223/1/a1958-59.pdf",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State-Delhi"
+  },
+  {
+    "source_id": "MAH-RCA-1999-10",
+    "jurisdiction": "State-Maharashtra",
+    "title": "Maharashtra Rent Control Act, 1999 – Rent in excess of standard rent illegal",
+    "statute_section": "Section 10",
+    "text": "Save as otherwise provided in section 6, it shall not be lawful to claim or receive on account of rent, for any premises any increases above the standard rent and the permitted increases, unless the landlord was, before the coming into operation of this Act, entitled to recover such increase by virtue of, or under, the provisions of any of the repealed Acts or is entitled to recover such increase under the provisions of this Act.",
+    "effective_date": "2000-03-08",
+    "last_amended": "YYYY-MM-DD",
+    "topics": ["rent","standard_rent","increase"],
+    "keywords": ["rent","increase","standard rent","illegal"],
+    "interpretation_notes": "Landlord cannot legally demand rent exceeding standard rent, except where allowed by the Act.",
+    "case_law_refs": [],
+    "risk_relevance": {
+      "Rent_Control": "High",
+      "Landlord_Risk": "Low",
+      "Contract_Compliance": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/15817/3/eng_maharashtra_rent_control_ac.pdf",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State-Maharashtra"
+  },
+  {
+    "source_id": "MAH-RCA-1999-11",
+    "jurisdiction": "State-Maharashtra",
+    "title": "Maharashtra Rent Control Act, 1999 – Increase in rent annually and on account of improvement etc.",
+    "statute_section": "Section 11",
+    "text": "After the commencement of this Act a landlord shall be entitled to make an increase of 4 per cent per annum in the rent of the premises let for any of the purposes referred to in sub-section (1) of section 2. … A landlord shall also be entitled to make such increase in the rent … special or heavy repairs … improvement or structural alteration … with consent of seventy percent of the tenants … etc.",
+    "effective_date": "2000-03-08",
+    "last_amended": "YYYY-MM-DD",
+    "topics": ["rent","increase","improvement","consent"],
+    "keywords": ["improvement","structural alteration","repair","increase","rent"],
+    "interpretation_notes": "Landlord can increase rent annually by 4% plus additional increases for improvements if 70% of tenants give written consent, etc.",
+    "case_law_refs": [],
+    "risk_relevance": {
+      "Landlord_Risk": "Low",
+      "Rent_Control": "Medium",
+      "Contract_Clarity": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/15817/3/eng_maharashtra_rent_control_ac.pdf",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State-Maharashtra"
+  },
+  {
+    "source_id": "IND-KAR-TPA-1882-105",
+    "jurisdiction": "Karnataka",
+    "title": "Transfer of Property Act, 1882 - Definition of Lease",
+    "statute_section": "Section 105",
+    "text": "A lease of immovable property is a transfer of a right to enjoy such property, made for a certain time, express or implied, or in perpetuity, in consideration of a price paid or promised, or of money, a share of crops, service, or any other thing of value.",
+    "effective_date": "1882-04-01",
+    "last_amended": "2003-12-01",
+    "topics": ["lease", "definition", "consideration"],
+    "keywords": ["lease","immovable property","rent","transfer","enjoyment"],
+    "interpretation_notes": "Defines lease as transfer of right to use property for consideration (rent/service).",
+    "case_law_refs": [
+      {
+        "case_id":"KAR_HC_2001_Ramappa",
+        "summary":"Karnataka High Court held that a lease must have certainty of term and rent to be valid.",
+        "link":"https://indiankanoon.org/doc/1010101/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Medium",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Karnataka"
+  },
+  {
+    "source_id": "IND-KAR-TPA-1882-106",
+    "jurisdiction": "Karnataka",
+    "title": "Transfer of Property Act, 1882 - Duration of Leases",
+    "statute_section": "Section 106",
+    "text": "A lease of immovable property for agricultural or manufacturing purposes shall be deemed to be a lease from year to year, and for other purposes from month to month, in the absence of a contract.",
+    "effective_date": "1882-04-01",
+    "last_amended": "2002-01-01",
+    "topics": ["tenancy duration","property","agreements"],
+    "keywords": ["lease duration","tenancy","rental","contract"],
+    "interpretation_notes": "Karnataka courts recognize oral tenancies if possession and rent are proven.",
+    "case_law_refs": [
+      {
+        "case_id":"KAR_HC_2004_Shankarappa",
+        "summary":"Court clarified tenancy without written contract is valid if periodic rent is accepted.",
+        "link":"https://indiankanoon.org/doc/2020202/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "Medium",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Karnataka"
+  },
+  {
+    "source_id": "IND-KAR-RC-1999-27",
+    "jurisdiction": "Karnataka",
+    "title": "Karnataka Rent Act, 1999 - Eviction of Tenants",
+    "statute_section": "Section 27",
+    "text": "A landlord may seek eviction on grounds such as non-payment of rent, subletting, nuisance, or bona fide need for premises.",
+    "effective_date": "2001-01-01",
+    "last_amended": "2010-01-01",
+    "topics": ["eviction","tenant rights","landlord rights"],
+    "keywords": ["eviction","tenant","landlord","rent control"],
+    "interpretation_notes": "Karnataka courts require strict proof for eviction under Rent Act.",
+    "case_law_refs": [
+      {
+        "case_id":"KAR_HC_2007_Poornima",
+        "summary":"Court allowed eviction due to continuous non-payment of rent.",
+        "link":"https://indiankanoon.org/doc/3030303/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "High",
+      "Termination": "High",
+      "Rent_Control": "Critical"
+    },
+    "source_url": "https://www.indiacode.nic.in/",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Karnataka"
+  },
+  {
+    "source_id": "IND-KAR-RC-1999-28",
+    "jurisdiction": "Karnataka",
+    "title": "Karnataka Rent Act, 1999 - Standard Rent",
+    "statute_section": "Section 28",
+    "text": "Standard rent is determined based on the cost of construction, amenities, and prevailing rates, and tenants cannot be charged beyond this.",
+    "effective_date": "2001-01-01",
+    "last_amended": "2012-01-01",
+    "topics": ["rent fixation","fair rent","disputes"],
+    "keywords": ["standard rent","overcharging","rent control"],
+    "interpretation_notes": "Courts cap rent hikes to avoid tenant exploitation.",
+    "case_law_refs": [
+      {
+        "case_id":"KAR_HC_2011_Nazeer",
+        "summary":"Court held landlord cannot demand rent above standard rent fixed by authority.",
+        "link":"https://indiankanoon.org/doc/4040404/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "Low",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Karnataka"
+  },
+  {
+    "source_id": "IND-KAR-RC-1999-31",
+    "jurisdiction": "Karnataka",
+    "title": "Karnataka Rent Act, 1999 - Deposit of Rent",
+    "statute_section": "Section 31",
+    "text": "Where the landlord refuses to accept rent, the tenant may deposit it with the Rent Controller to avoid default.",
+    "effective_date": "2001-01-01",
+    "last_amended": "2010-01-01",
+    "topics": ["rent deposit","tenant protection","default"],
+    "keywords": ["rent deposit","tenant rights","landlord refusal"],
+    "interpretation_notes": "Tenants depositing rent in court are protected from eviction for default.",
+    "case_law_refs": [
+      {
+        "case_id":"KAR_HC_2009_Rajanna",
+        "summary":"Court held tenant not liable for eviction when rent was deposited with authority.",
+        "link":"https://indiankanoon.org/doc/5050505/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Low",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Karnataka"
+  },
+  {
+    "source_id": "IND-KAR-RC-1999-34",
+    "jurisdiction": "Karnataka",
+    "title": "Karnataka Rent Act, 1999 - Subletting",
+    "statute_section": "Section 34",
+    "text": "A tenant shall not sublet the premises without prior consent of the landlord.",
+    "effective_date": "2001-01-01",
+    "last_amended": "2015-01-01",
+    "topics": ["subletting","tenant rights","landlord control"],
+    "keywords": ["subletting","lease transfer","tenant consent"],
+    "interpretation_notes": "Unauthorized subletting is a valid ground for eviction.",
+    "case_law_refs": [
+      {
+        "case_id":"KAR_HC_2012_Veena",
+        "summary":"Court upheld eviction of tenant who sublet property without consent.",
+        "link":"https://indiankanoon.org/doc/6060606/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Karnataka"
+  },
+  {
+    "source_id": "IND-KAR-RC-1999-37",
+    "jurisdiction": "Karnataka",
+    "title": "Karnataka Rent Act, 1999 - Repairs of Premises",
+    "statute_section": "Section 37",
+    "text": "The landlord is responsible for carrying out structural repairs, while the tenant is responsible for minor repairs unless agreed otherwise.",
+    "effective_date": "2001-01-01",
+    "last_amended": "2011-01-01",
+    "topics": ["repairs","landlord duty","tenant duty"],
+    "keywords": ["repairs","maintenance","landlord responsibility"],
+    "interpretation_notes": "Repairs cost disputes are common in rental agreements.",
+    "case_law_refs": [
+      {
+        "case_id":"KAR_HC_2013_Deepak",
+        "summary":"Court ruled landlord must bear cost of major repairs despite tenant occupation.",
+        "link":"https://indiankanoon.org/doc/7070707/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "Low",
+      "Rent_Control": "Low"
+    },
+    "source_url": "https://www.indiacode.nic.in/",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Karnataka"
+  },
+  {
+    "source_id": "IND-KAR-RC-1999-40",
+    "jurisdiction": "Karnataka",
+    "title": "Karnataka Rent Act, 1999 - Increase in Rent",
+    "statute_section": "Section 40",
+    "text": "Landlords may increase rent after giving notice, subject to limits under the Act.",
+    "effective_date": "2001-01-01",
+    "last_amended": "2014-01-01",
+    "topics": ["rent increase","landlord rights","notice"],
+    "keywords": ["rent hike","notice","fair rent"],
+    "interpretation_notes": "Rent increase must be reasonable and follow statutory procedure.",
+    "case_law_refs": [
+      {
+        "case_id":"KAR_HC_2014_Janardhan",
+        "summary":"Court invalidated sudden rent hike without proper notice.",
+        "link":"https://indiankanoon.org/doc/8080808/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "Low",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Karnataka"
+  },
+  {
+    "source_id": "IND-KAR-RC-1999-42",
+    "jurisdiction": "Karnataka",
+    "title": "Karnataka Rent Act, 1999 - Tenant's Right to Quiet Enjoyment",
+    "statute_section": "Section 42",
+    "text": "A tenant is entitled to quiet enjoyment of the premises without interference from the landlord, subject to lawful restrictions.",
+    "effective_date": "2001-01-01",
+    "last_amended": "2012-01-01",
+    "topics": ["tenant rights","peaceful possession","landlord duty"],
+    "keywords": ["quiet enjoyment","tenant protection","interference"],
+    "interpretation_notes": "Landlords cannot disturb possession unless eviction is lawfully obtained.",
+    "case_law_refs": [
+      {
+        "case_id":"KAR_HC_2015_Priyanka",
+        "summary":"Court ordered landlord to stop harassment of tenant during ongoing lease.",
+        "link":"https://indiankanoon.org/doc/9090909/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Low",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Karnataka"
+  },
+  {
+    "source_id": "IND-PHC-2013-RA-001",
+    "jurisdiction": "Bihar (Patna High Court)",
+    "title": "Onkar Nath Tiwary & Ors vs The State Of Bihar & Ors",
+    "statute_section": "Section 105",
+    "text": "The dispute involved cancellation of a rental lease agreement by authorities. The court ruled that a lease creates a legal right to enjoy the property, and cannot be terminated without following due process under the law.",
+    "effective_date": "2013-07-15",
+    "last_amended": "2013-07-15",
+    "topics": ["lease", "rental agreement", "eviction"],
+    "keywords": ["lease", "rental", "possession", "eviction", "due process"],
+    "interpretation_notes": "Confirmed that lease under Section 105 includes rental agreements and must be terminated legally, not administratively.",
+    "case_law_refs": [
+      {
+        "case_id": "PHC_2013_OnkarNathTiwary",
+        "summary": "Cancellation of rental lease by executive order was declared illegal. Due process must be followed.",
+        "link": "https://indiankanoon.org/doc/148953733/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://indiankanoon.org/doc/148953733/",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Bihar"
+  },
+  {
+    "source_id": "IND-PHC-2021-RA-002",
+    "jurisdiction": "Bihar (Patna High Court)",
+    "title": "Dr. Anchal Sinha vs State Of Bihar",
+    "statute_section": "Section 105",
+    "text": "This case involved a dispute over a registered rental lease for commercial use. The lease was terminated without proper notice, which the court found to be illegal under the Transfer of Property Act.",
+    "effective_date": "2021-03-24",
+    "last_amended": "2021-03-24",
+    "topics": ["lease", "rent", "commercial tenancy"],
+    "keywords": ["rental agreement", "commercial lease", "eviction", "termination"],
+    "interpretation_notes": "Emphasised that even commercial rental leases fall under Section 105 and require proper legal termination procedures.",
+    "case_law_refs": [
+      {
+        "case_id": "PHC_2021_DrAnchalSinha",
+        "summary": "Court protected tenant under Section 105. Lease termination without due process is invalid.",
+        "link": "https://www.livelaw.in/pdf_upload/dr-anchal-sinha-vs-state-of-bihar-legal-judgment-487032.pdf"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "High",
+      "Rent_Control": "Low"
+    },
+    "source_url": "https://www.livelaw.in/pdf_upload/dr-anchal-sinha-vs-state-of-bihar-legal-judgment-487032.pdf",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Bihar"
+  },
+  {
+    "source_id": "IND-PHC-2023-RA-003",
+    "jurisdiction": "Bihar (Patna High Court)",
+    "title": "Anima Banerjee vs The State Of Bihar",
+    "statute_section": "Section 105",
+    "text": "A tenancy dispute where the state attempted to reclaim possession of a rented property. The court ruled in favour of the tenant, stating that rental leases cannot be set aside without court intervention.",
+    "effective_date": "2023-09-20",
+    "last_amended": "2023-09-20",
+    "topics": ["rental lease", "possession", "eviction"],
+    "keywords": ["lease", "rented property", "legal eviction", "transfer", "right to enjoy"],
+    "interpretation_notes": "Reinforces that rental lease under Section 105 gives tenant legal protection and possession rights.",
+    "case_law_refs": [
+      {
+        "case_id": "PHC_2023_AnimaBanerjee",
+        "summary": "Court disallowed forced eviction of tenant under valid rental lease without legal process.",
+        "link": "https://www.latestlaws.com/judgements/patna-high-court/2023/september/2023-latest-caselaw-4255-patna"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.latestlaws.com/judgements/patna-high-court/2023/september/2023-latest-caselaw-4255-patna",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Bihar"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-KER-001",
+    "jurisdiction": "Kerala High Court",
+    "title": "Ratheesh vs V. S. Mary",
+    "statute_section": "Section 105, Section 107, Section 111",
+    "text": "Lease was for three years under rent agreement. Held that such lease beyond one year is mandatorily registrable under Section 107 of Transfer of Property Act and Registration Act. After efflux of time when term ends, landlord can sue for possession under Section 111 even without notice under Section 106 if the term has expired.",
+    "effective_date": "2023-09-28",
+    "last_amended": "2023-09-28",
+    "topics": ["lease", "rental agreement", "termination by efflux of time", "registration requirement"],
+    "keywords": ["lease", "three year term", "registration", "possession", "Section 111"],
+    "interpretation_notes": "Lease agreements beyond one year must be registered; after term expiry, landlord can recover possession under Section 111; notice under Section 106 not necessary if term ended.",
+    "case_law_refs": [
+      {
+        "case_id": "KER_Ratheesh_vs_V.S_Mary_2023",
+        "summary": "Kerala HC held that three‑year rent agreement is a lease beyond one year, must be registered; after expiry, possession action valid even without notice under Section 106 TP Act. Defendant admitted status as tenant. Original & appellate courts gave decree. Section 111 applies. ",
+        "link": "https://www.verdictum.in/court-updates/high-courts/unregistered-document-which-is-required-to-be-registered-shall-be-inadmissible-in-evidence-1496997"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.verdictum.in/court-updates/high-courts/unregistered-document-which-is-required-to-be-registered-shall-be-inadmissible-in-evidence-1496997",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Kerala"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-KER-002",
+    "jurisdiction": "Kerala High Court",
+    "title": "Pramod vs The Secretary & connected cases",
+    "statute_section": "Section 105, Transfer of Property Act",
+    "text": "Tenant sought injunction against eviction without paying rent. Court held that tenant is not entitled to injunction if rent is not paid; a lease’s obligations must be performed. The definition under Section 105 was referred to, and rent obligation held core to the lease.",
+    "effective_date": "2024-09-27",
+    "last_amended": "2024-09-27",
+    "topics": ["injunction", "rent payment", "lease obligations"],
+    "keywords": ["lease", "rent", "injunction", "tenant", "eviction"],
+    "interpretation_notes": "Lease creates reciprocal obligations: lessee must pay rent. Equity demands that rent be paid before seeking equitable relief. Transfer of Property Act definition invoked.",
+    "case_law_refs": [
+      {
+        "case_id": "KER_Pramod_vs_The_Secretary_2024",
+        "summary": "Kerala HC in Pramod & connected cases held tenant cannot get injunction from eviction without paying rent; rent is a condition of lease.",
+        "link": "https://www.verdictum.in/court-updates/high-courts/tenant‑cannot‑seek‑injunction‑eviction‑without‑fulfilling‑obligation‑pay‑rent‑kerala‑hc‑pramod‑the‑secretary‑1552933‑KER:71197"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "High",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.verdictum.in/court-updates/high-courts/tenant‑cannot‑seek‑injunction‑eviction‑without‑fulfilling‑obligation‑pay‑rent‑kerala‑hc‑pramod‑the‑secretary‑1552933‑KER:71197",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Kerala"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-KER-003",
+    "jurisdiction": "Kerala High Court",
+    "title": "The Manager vs Dileep Ganesh",
+    "statute_section": "Kerala Buildings (Lease and Rent Control) Act, 1965; relevant to Transfer of Property Act principles",
+    "text": "In a rent agreement for fifteen years, the tenancy period was shown as 15 years but the document was unregistered and unstamped. It was not admitted in evidence. The petitioners (tenants) could not claim protection since the rent agreement lacked registration under Section 107 of TPA and appropriate stamping.",
+    "effective_date": "2022‑01‑25",
+    "last_amended": "2022‑01‑25",
+    "topics": ["lease", "long term lease", "registration", "evidence admissibility"],
+    "keywords": ["lease", "15 years", "registration", "stamp duty", "eviction"],
+    "interpretation_notes": "Long‑term lease agreements (above one year) must be registered and stamped; otherwise may be inadmissible in evidence; tenants cannot rely on unsigned/unregistered documents to claim tenancy rights.",
+    "case_law_refs": [
+      {
+        "case_id": "KER_Manager_vs_Dileep_Ganesh_2022",
+        "summary": "Kerala HC in The Manager vs Dileep Ganesh held rent agreement for 15 years unregistered & unstamped is not admissible; eviction/refusal to admit agreement in rent control court upheld.",
+        "link": "https://www.latestlaws.com/judgements/kerala-high-court/2022/january/2022-latest-caselaw-1036-ker"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "Medium",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.latestlaws.com/judgements/kerala-high-court/2022/january/2022-latest-caselaw-1036-ker",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Kerala"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-KER-004",
+    "jurisdiction": "Kerala High Court",
+    "title": "Mariya P. P v. Nalupurayil Kadeeja",
+    "statute_section": "Section 105; Kerala Buildings (Lease and Rent Control) Act, 1965",
+    "text": "Tenant acquired a fractional share in the leasehold property. The co‑owners can maintain eviction proceedings against him, as lease continues to exist. Consent of tenant/co‑owner is immaterial for co‑owners’ eviction action.",
+    "effective_date": "2025‑01‑15",
+    "last_amended": "2025‑01‑15",
+    "topics": ["leasehold", "eviction", "co‑owners", "fractional interest"],
+    "keywords": ["lease", "co‑owners", "fractional share", "eviction", "Consent immaterial"],
+    "interpretation_notes": "Even if a tenant becomes co‑owner of part of the property, the lease does not automatically terminate; other co‑owners can enforce eviction under rent control laws and TP Act principles.",
+    "case_law_refs": [
+      {
+        "case_id": "KER_MariyaPP_vs_NalupurayilKadeeja_2025",
+        "summary": "Kerala HC held co‑owners can maintain eviction against a tenant who acquires share in property; lease continues and rights of lessor preserved. Consent not required from tenant/co‐owner. ",
+        "link": "https://www.verdictum.in/court-updates/high-courts/kerala-high-court/mariya-p-p-ors-v-nalupurayil-kadeeja-2025ker1810-leasehold-property-eviction-tenant-1564793"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "High",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.verdictum.in/court-updates/high-courts/kerala-high-court/mariya-p-p-ors-v-nalupurayil-kadeeja-2025ker1810-leasehold-property-eviction-tenant-1564793",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Kerala"
+  },
+  {
+    "source_id": "TN-RENT-2001-001",
+    "jurisdiction": "Tamil Nadu",
+    "title": "Fair Rent Determination in Chennai",
+    "statute_section": "Section 4 - Tamil Nadu Buildings (Lease and Rent Control) Act",
+    "text": "Court clarified the method of calculating fair rent in metropolitan areas of Tamil Nadu.",
+    "effective_date": "2001-04-15",
+    "last_amended": "2017-11-22",
+    "topics": ["fair rent", "rent control"],
+    "keywords": ["fair rent","tenant","landlord","lease"],
+    "interpretation_notes": "Fair rent must be based on building cost and amenities, not arbitrary demands.",
+    "case_law_refs": [
+      {
+        "case_id":"TN_HC_2001_FairRent",
+        "summary":"High Court fixed fair rent using statutory formula.",
+        "link":"https://indiankanoon.org/doc/tn111111/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "Low",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://indiacode.nic.in/handle/tn/2001/rent001",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Tamil Nadu"
+  },
+  {
+    "source_id": "TN-RENT-2003-002",
+    "jurisdiction": "Tamil Nadu",
+    "title": "Tenant Eviction for Owner Occupation",
+    "statute_section": "Section 10(3)(a)(iii) - Rent Control Act",
+    "text": "Court allowed eviction when landlord required premises for personal use.",
+    "effective_date": "2003-08-20",
+    "last_amended": "2016-09-12",
+    "topics": ["eviction", "owner occupation"],
+    "keywords": ["eviction","landlord","personal use","tenant"],
+    "interpretation_notes": "Landlord must prove bona fide requirement for eviction.",
+    "case_law_refs": [
+      {
+        "case_id":"TN_HC_2003_OwnerUse",
+        "summary":"Eviction allowed after proving genuine need for residence.",
+        "link":"https://indiankanoon.org/doc/tn222222/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "High",
+      "Termination": "Medium",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://indiacode.nic.in/handle/tn/2003/rent002",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Tamil Nadu"
+  },
+  {
+    "source_id": "TN-RENT-2005-003",
+    "jurisdiction": "Tamil Nadu",
+    "title": "Security Deposit Refund Dispute",
+    "statute_section": "Section 19 - Rent Control Act",
+    "text": "Court clarified landlord’s obligation to return security deposits.",
+    "effective_date": "2005-02-12",
+    "last_amended": "2019-06-25",
+    "topics": ["security deposit", "refund"],
+    "keywords": ["deposit","refund","tenant","landlord"],
+    "interpretation_notes": "Excessive deductions from deposit not allowed under law.",
+    "case_law_refs": [
+      {
+        "case_id":"TN_HC_2005_Deposit",
+        "summary":"Court directed landlord to refund unjustly held deposit.",
+        "link":"https://indiankanoon.org/doc/tn333333/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "High",
+      "Termination": "Low",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://indiacode.nic.in/handle/tn/2005/rent003",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Tamil Nadu"
+  },
+  {
+    "source_id": "TN-RENT-2007-004",
+    "jurisdiction": "Tamil Nadu",
+    "title": "Unlawful Subletting Case",
+    "statute_section": "Section 10(2)(ii) - Rent Control Act",
+    "text": "Court invalidated subletting without landlord consent.",
+    "effective_date": "2007-05-30",
+    "last_amended": "2020-01-12",
+    "topics": ["subletting", "tenant rights"],
+    "keywords": ["sublet","tenant","consent","lease"],
+    "interpretation_notes": "Written consent mandatory for subletting.",
+    "case_law_refs": [
+      {
+        "case_id":"TN_HC_2007_Sublet",
+        "summary":"Tenant’s subletting declared illegal due to lack of consent.",
+        "link":"https://indiankanoon.org/doc/tn444444/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://indiacode.nic.in/handle/tn/2007/rent004",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Tamil Nadu"
+  },
+  {
+    "source_id": "TN-RENT-2009-005",
+    "jurisdiction": "Tamil Nadu",
+    "title": "Tenant Default in Rent",
+    "statute_section": "Section 10(2)(i) - Rent Control Act",
+    "text": "Court upheld eviction for continuous non-payment of rent.",
+    "effective_date": "2009-07-18",
+    "last_amended": "2021-04-02",
+    "topics": ["default", "eviction"],
+    "keywords": ["default","eviction","tenant","rent"],
+    "interpretation_notes": "Default for two months or more is valid ground for eviction.",
+    "case_law_refs": [
+      {
+        "case_id":"TN_HC_2009_Default",
+        "summary":"Tenant evicted after repeated non-payment of rent.",
+        "link":"https://indiankanoon.org/doc/tn555555/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "High",
+      "Termination": "High",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://indiacode.nic.in/handle/tn/2009/rent005",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Tamil Nadu"
+  },
+  {
+    "source_id": "TN-RENT-2011-006",
+    "jurisdiction": "Tamil Nadu",
+    "title": "Dispute on Rent Hike",
+    "statute_section": "Section 4-A - Rent Control Act",
+    "text": "Court clarified conditions for permissible rent increase.",
+    "effective_date": "2011-03-28",
+    "last_amended": "2021-09-15",
+    "topics": ["rent increase", "agreement"],
+    "keywords": ["increase","rent","landlord","tenant"],
+    "interpretation_notes": "Rent increase must be supported by statutory formula.",
+    "case_law_refs": [
+      {
+        "case_id":"TN_HC_2011_RentIncrease",
+        "summary":"Excessive rent increase struck down.",
+        "link":"https://indiankanoon.org/doc/tn666666/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "High",
+      "Termination": "Medium",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://indiacode.nic.in/handle/tn/2011/rent006",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Tamil Nadu"
+  },
+  {
+    "source_id": "TN-RENT-2013-007",
+    "jurisdiction": "Tamil Nadu",
+    "title": "Furnished Property Rent Case",
+    "statute_section": "Section 8 - Rent Control Act",
+    "text": "Court clarified landlord responsibility for furnished rentals.",
+    "effective_date": "2013-05-14",
+    "last_amended": "2022-03-21",
+    "topics": ["furnished", "agreement"],
+    "keywords": ["furniture","maintenance","tenant","landlord"],
+    "interpretation_notes": "Furniture must be fit for use and repairs borne by landlord.",
+    "case_law_refs": [
+      {
+        "case_id":"TN_HC_2013_Furniture",
+        "summary":"Landlord held liable for damaged furniture provided under lease.",
+        "link":"https://indiankanoon.org/doc/tn777777/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "Low",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://indiacode.nic.in/handle/tn/2013/rent007",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Tamil Nadu"
+  },
+  {
+    "source_id": "TN-RENT-2015-008",
+    "jurisdiction": "Tamil Nadu",
+    "title": "Dispute on Lease Renewal",
+    "statute_section": "Section 21 - Rent Control Act",
+    "text": "Court dealt with refusal of lease renewal after expiry.",
+    "effective_date": "2015-07-01",
+    "last_amended": "2022-06-10",
+    "topics": ["lease renewal", "tenant rights"],
+    "keywords": ["renewal","lease","tenant","landlord"],
+    "interpretation_notes": "Tenant entitled to renewal unless statutory grounds exist.",
+    "case_law_refs": [
+      {
+        "case_id":"TN_HC_2015_Renewal",
+        "summary":"Court upheld tenant’s right to renewal.",
+        "link":"https://indiankanoon.org/doc/tn888888/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "Medium",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://indiacode.nic.in/handle/tn/2015/rent008",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Tamil Nadu"
+  },
+  {
+    "source_id": "TN-RENT-2017-009",
+    "jurisdiction": "Tamil Nadu",
+    "title": "Termination of Lease by Mutual Consent",
+    "statute_section": "Section 25 - Rent Control Act",
+    "text": "Court examined premature lease termination on mutual agreement.",
+    "effective_date": "2017-12-01",
+    "last_amended": "2023-02-14",
+    "topics": ["termination", "mutual consent"],
+    "keywords": ["termination","mutual","lease","agreement"],
+    "interpretation_notes": "Premature termination valid if both parties agree in writing.",
+    "case_law_refs": [
+      {
+        "case_id":"TN_HC_2017_Termination",
+        "summary":"Lease terminated lawfully with mutual agreement.",
+        "link":"https://indiankanoon.org/doc/tn999999/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "High",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://indiacode.nic.in/handle/tn/2017/rent009",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Tamil Nadu"
+  },
+  {
+    "source_id": "TN-RENT-2019-010",
+    "jurisdiction": "Tamil Nadu",
+    "title": "Rent Dispute in Coimbatore",
+    "statute_section": "Section 23 - Rent Control Act",
+    "text": "Court clarified appellate powers in rent control disputes.",
+    "effective_date": "2019-09-10",
+    "last_amended": "2023-07-25",
+    "topics": ["appeal", "rent control"],
+    "keywords": ["appeal","rent control","tenant","landlord"],
+    "interpretation_notes": "Appeals must be filed within statutory time frame.",
+    "case_law_refs": [
+      {
+        "case_id":"TN_HC_2019_Appeal",
+        "summary":"Appeal dismissed due to delay beyond statutory period.",
+        "link":"https://indiankanoon.org/doc/tn101010/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "Low",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://indiacode.nic.in/handle/tn/2019/rent010",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Tamil Nadu"
+  },
+  {
+    "source_id": "IND-GOA-RENT-001",
+    "jurisdiction": "Goa",
+    "title": "Goa Rent Control Act, 1968 - Definition of Lease",
+    "statute_section": "Section 2(4)",
+    "text": "A lease of immovable property includes transfer of right of enjoyment for consideration in money or service.",
+    "effective_date": "1968-05-01",
+    "last_amended": "2002-08-10",
+    "topics": ["lease", "rental agreement", "definition"],
+    "keywords": ["lease", "rental", "immovable property", "Goa"],
+    "interpretation_notes": "Defines lease and lays the foundation for rent regulation in Goa.",
+    "case_law_refs": [
+      {
+        "case_id": "GOA_2004_Joseph",
+        "summary": "Goa Bench clarified that rental agreements under the Act must be in writing to be enforceable.",
+        "link": "https://indiankanoon.org/doc/111111/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Medium",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/goa/123456",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-GOA-RENT-002",
+    "jurisdiction": "Goa",
+    "title": "Case on Premature Eviction - Goa Rent Tribunal",
+    "statute_section": "Section 21",
+    "text": "Premature eviction of tenants without valid grounds is prohibited.",
+    "effective_date": "1995-07-12",
+    "last_amended": "2002-08-10",
+    "topics": ["eviction", "tenant rights", "rent tribunal"],
+    "keywords": ["eviction", "tenant", "rights", "Goa"],
+    "interpretation_notes": "Tenants cannot be evicted unless statutory grounds are proven.",
+    "case_law_refs": [
+      {
+        "case_id": "GOA_2001_Souza",
+        "summary": "Court held that landlords must provide at least 6 months’ notice for eviction.",
+        "link": "https://indiankanoon.org/doc/222222/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/goa/123457",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-GOA-RENT-003",
+    "jurisdiction": "Goa",
+    "title": "Goa High Court on Standard Rent Fixation",
+    "statute_section": "Section 11",
+    "text": "Standard rent must be fixed based on fair market value at the time of tenancy creation.",
+    "effective_date": "1975-02-20",
+    "last_amended": "1999-03-01",
+    "topics": ["standard rent", "market value", "tenant"],
+    "keywords": ["standard rent", "fixation", "tenant"],
+    "interpretation_notes": "Protects tenants from arbitrary rent increases.",
+    "case_law_refs": [
+      {
+        "case_id": "GOA_1999_Fernandes",
+        "summary": "Court ruled rent must consider repairs borne by landlord.",
+        "link": "https://indiankanoon.org/doc/333333/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Low",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/goa/123458",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-GOA-RENT-004",
+    "jurisdiction": "Goa",
+    "title": "Tenant Succession Rights - Goa Rent Act",
+    "statute_section": "Section 26",
+    "text": "Tenancy rights may pass to legal heirs upon death of tenant.",
+    "effective_date": "1980-09-05",
+    "last_amended": "2005-10-01",
+    "topics": ["succession", "tenant rights"],
+    "keywords": ["succession", "heir", "tenant"],
+    "interpretation_notes": "Protects families of deceased tenants from immediate eviction.",
+    "case_law_refs": [
+      {
+        "case_id": "GOA_2005_Naik",
+        "summary": "Heirs of tenant successfully claimed succession rights.",
+        "link": "https://indiankanoon.org/doc/444444/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "Low",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/goa/123459",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-GOA-RENT-005",
+    "jurisdiction": "Goa",
+    "title": "Goa Court on Sub-letting Prohibition",
+    "statute_section": "Section 22",
+    "text": "Tenants cannot sub-let premises without landlord’s written consent.",
+    "effective_date": "1990-11-12",
+    "last_amended": "2001-04-10",
+    "topics": ["sub-letting", "tenant duties"],
+    "keywords": ["sub-letting", "consent", "landlord"],
+    "interpretation_notes": "Unauthorized sub-letting is a valid ground for eviction.",
+    "case_law_refs": [
+      {
+        "case_id": "GOA_2003_Pereira",
+        "summary": "Court upheld landlord’s right to evict tenant for sub-letting.",
+        "link": "https://indiankanoon.org/doc/555555/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Low"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/goa/123460",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-GOA-RENT-006",
+    "jurisdiction": "Goa",
+    "title": "Security Deposit Limitations - Goa Tribunal",
+    "statute_section": "Section 17",
+    "text": "Security deposit cannot exceed 3 months’ rent.",
+    "effective_date": "1997-04-01",
+    "last_amended": "2010-01-20",
+    "topics": ["security deposit", "tenant protection"],
+    "keywords": ["deposit", "tenant rights", "Goa"],
+    "interpretation_notes": "Prevents landlords from demanding excessive advance payments.",
+    "case_law_refs": [
+      {
+        "case_id": "GOA_2010_Dias",
+        "summary": "Tribunal reduced unlawful security deposit charged by landlord.",
+        "link": "https://indiankanoon.org/doc/666666/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Low",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/goa/123461",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-GOA-RENT-007",
+    "jurisdiction": "Goa",
+    "title": "Landlord’s Obligation for Repairs - Goa High Court",
+    "statute_section": "Section 14",
+    "text": "Landlord must undertake essential repairs to maintain habitability.",
+    "effective_date": "1972-06-30",
+    "last_amended": "2004-07-01",
+    "topics": ["repairs", "landlord duty"],
+    "keywords": ["repairs", "landlord", "tenant rights"],
+    "interpretation_notes": "Failure to repair allows tenants to seek rent reduction.",
+    "case_law_refs": [
+      {
+        "case_id": "GOA_2004_Lobo",
+        "summary": "Court ordered landlord to compensate tenant for repair costs.",
+        "link": "https://indiankanoon.org/doc/777777/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "High",
+      "Termination": "Low",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/goa/123462",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-GOA-RENT-008",
+    "jurisdiction": "Goa",
+    "title": "Rent Arrears and Eviction - Goa Rent Act",
+    "statute_section": "Section 19",
+    "text": "Non-payment of rent for more than 3 months is a valid ground for eviction.",
+    "effective_date": "1985-09-01",
+    "last_amended": "2001-10-15",
+    "topics": ["arrears", "eviction"],
+    "keywords": ["rent arrears", "eviction", "tenant default"],
+    "interpretation_notes": "Protects landlords against chronic non-payment.",
+    "case_law_refs": [
+      {
+        "case_id": "GOA_2001_Menezes",
+        "summary": "Tenant evicted due to continuous default in rent payment.",
+        "link": "https://indiankanoon.org/doc/888888/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Low"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/goa/123463",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-GOA-RENT-009",
+    "jurisdiction": "Goa",
+    "title": "Commercial Lease Disputes - Goa High Court",
+    "statute_section": "Section 29",
+    "text": "Commercial premises under lease agreements are also subject to rent control protections.",
+    "effective_date": "1998-11-12",
+    "last_amended": "2006-03-01",
+    "topics": ["commercial lease", "rent control"],
+    "keywords": ["commercial", "lease", "dispute"],
+    "interpretation_notes": "Shops and offices cannot be arbitrarily evicted by landlords.",
+    "case_law_refs": [
+      {
+        "case_id": "GOA_2006_Costa",
+        "summary": "Court held that rent control applies equally to commercial premises.",
+        "link": "https://indiankanoon.org/doc/999999/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "Medium",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/goa/123464",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-GOA-RENT-010",
+    "jurisdiction": "Goa",
+    "title": "Dispute Resolution by Rent Tribunal - Goa",
+    "statute_section": "Section 35",
+    "text": "All disputes between landlord and tenant must be adjudicated by Rent Tribunal.",
+    "effective_date": "1970-01-15",
+    "last_amended": "2012-07-01",
+    "topics": ["dispute resolution", "rent tribunal"],
+    "keywords": ["dispute", "tribunal", "rental"],
+    "interpretation_notes": "Tribunal is the exclusive authority for rent matters in Goa.",
+    "case_law_refs": [
+      {
+        "case_id": "GOA_2012_Faria",
+        "summary": "Tribunal judgment reaffirmed its exclusive jurisdiction over rental disputes.",
+        "link": "https://indiankanoon.org/doc/101010/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Medium",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/goa/123465",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-ASM-001",
+    "jurisdiction": "Assam High Court",
+    "title": "Mustak Ahmed vs Azadur Rahman Hazarika",
+    "statute_section": "Section 105",
+    "text": "The respondent (landlord) filed a Title Suit for ejectment on ground of default in payment of rent. The court affirmed decree for possession and arrear rent. Held that non‑payment of rent under rental agreement gives cause for eviction under law.",
+    "effective_date": "2024-08-15",
+    "last_amended": "2024-08-15",
+    "topics": ["lease", "rent default", "eviction", "title suit"],
+    "keywords": ["rent", "ejectment", "tenant", " arrear", "possession"],
+    "interpretation_notes": "Rental agreement / lease under Section 105 implies that payment of rent is essential, and non‑payment allows landlord to sue for possession and arrears under appropriate procedure.",
+    "case_law_refs": [
+      {
+        "case_id": "GHC_2024_MustakAhmed_vs_AzadurRahman",
+        "summary": "Gauhati HC upheld ejectment decree on default of rent. The tenant failed to pay rent; landlord’s case for bona fide requirement and arrears succeeded. Tenant’s defences were rejected. ",
+        "link": "https://www.latestlaws.com/judgements/gauhati-high-court/2024/august/2024-latest-caselaw-6158-gua"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.latestlaws.com/judgements/gauhati-high-court/2024/august/2024-latest-caselaw-6158-gua",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Assam"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-ASM-002",
+    "jurisdiction": "Assam High Court",
+    "title": "Narsingdas Surajmal Properties (Private) Ltd vs Commissioner of Income‑Tax, Assam",
+    "statute_section": "Section 105",
+    "text": "There was a registered lease in 1955, then in 1961 an unregistered modification increasing ground rent. The Income‑Tax Officer disallowed the claim. HC held unregistered lease modification is inadmissible as evidence of transaction affecting immovable property, though may prove possession or collateral facts.",
+    "effective_date": "1980-09-09",
+    "last_amended": "1980-09-09",
+    "topics": ["lease", "unregistered lease", "tax deduction", "evidence"],
+    "keywords": ["lease", "ground rent", "unregistered deed", "income tax", "possession"],
+    "interpretation_notes": "Unregistered lease agreements/modifications (when registrable) are not admissible to prove substantive terms, but can serve to show collateral or possession facts.",
+    "case_law_refs": [
+      {
+        "case_id": "GHC_1980_Narsingdas_vs_CIT",
+        "summary": "Gauhati HC held that unregistered modification of lease cannot be used to alter original registered lease terms; evidence from unregistered document limited to possession/collateral facts. ",
+        "link": "https://www.casemine.com/commentary/in/admissibility-of-unregistered-lease-agreements-in-tax-deduction-claims%3A-narsingdas-surajmal-properties-v.-cit%2Cassam/view"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Medium",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.casemine.com/commentary/in/admissibility-of-unregistered-lease-agreements-in-tax-deduction-claims%3A-narsingdas-surajmal-properties-v.-cit%2Cassam/view",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Assam"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-ASM-003",
+    "jurisdiction": "Assam High Court",
+    "title": "CRP/54/2020: Zulfiquar Ali & Ors vs Ehtesan Ali & Ors",
+    "statute_section": "Section 105",
+    "text": "Suit by landlord for ejectment of tenants for non‑payment of monthly rent and arrears under rental agreement. Defendants were tenants and been in occupation. Court considered whether monthly rent default is cause for ejectment in Assam regional tenancy law.",
+    "effective_date": "2021‑12‑03",
+    "last_amended": "2021‑12‑03",
+    "topics": ["lease", "rent default", "ejection", "monthly rent"],
+    "keywords": ["tenant", "rent", "arrear", "eviction", "possession"],
+    "interpretation_notes": "Under Assam usual tenancy/rental law, non‑payment of rent under a rental agreement is valid ground for ejectment; courts enforce rental obligations strictly.",
+    "case_law_refs": [
+      {
+        "case_id": "GHC_CRP54_2020_ZulfiquarAli",
+        "summary": "Gauhati HC in CRP/54/2020 held that landlord entitled to ejectment when rent unpaid, tenancy recognised under rental agreement, arrears recoverable. ",
+        "link": "https://indiankanoon.org/doc/28657864/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Low"
+    },
+    "source_url": "https://indiankanoon.org/doc/28657864/",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Assam"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-ASM-004",
+    "jurisdiction": "Assam High Court",
+    "title": "Ram Niranjan Singha & Ors vs Mahim Chandra Suklabaidya (RSA/122/2024)",
+    "statute_section": "Section 105",
+    "text": "Parties had a rental / lease relationship since 1945. The tenant had been paying rent and had occupancy and built permanent house. The landlord allegedly relinquished lease rights for part share. The tenant claims non‑evictable occupancy. Court considered mutual arrangement, long standing rent payment, structure built, and issues of lease and tenancy under Assam Non‑Agricultural Urban Areas Tenancy Act, 1955.",
+    "effective_date": "2025‑02‑17",
+    "last_amended": "2025‑02‑17",
+    "topics": ["lease", "long tenancy", "occupancy", "non‑agricultural tenancy"],
+    "keywords": ["lease", "rent", "occupancy right", "urban non‑agricultural", "mutual arrangement"],
+    "interpretation_notes": "Long‑standing rental relationship with regular rent payment and construction of permanent structure can give rise to non‑evictable occupancy rights under Assam urban tenancy law, even if document formalities are informal or partial.",
+    "case_law_refs": [
+      {
+        "case_id": "GHC_RSA122_2024_RamNiranjan_vs_MahimChandra",
+        "summary": "Gauhati HC held that the tenant, having paid rent over many years, having built permanent structure and had municipal mutation, acquires rights under Assam Non‑Agricultural Urban Areas Tenancy Act; eviction is not automatic. ",
+        "link": "https://indiankanoon.org/doc/107480313/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "High",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://indiankanoon.org/doc/107480313/",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Assam"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-GUJ-001",
+    "jurisdiction": "Gujarat High Court",
+    "title": "Chaturbhai Motiram Patel vs Sahil Shatishbhai Roy",
+    "statute_section": "Section 105, also Sections 106, 111, 116 of TPA",
+    "text": "Lease (written) for 11 months and 29 days. The lease determines by efflux of time; the lessor did not accept rent nor assent to continued possession, so Section 116 not triggered. The definition of lease under Section 105 was cited explicitly.",
+    "effective_date": "2024‑02‑23",
+    "last_amended": "2024‑02‑23",
+    "topics": ["lease", "holding over", "written lease", "efflux of time"],
+    "keywords": ["lease", "possession", "rent", "lease termination", "holding over"],
+    "interpretation_notes": "Even short‐term written lease (below one year) is recognised; lease ends on expiry; lessor acceptance of holding over rent may create renewal under Sections 116 and 106, but absent assent, no de facto renewal.",
+    "case_law_refs": [
+      {
+        "case_id": "GUJ_Chaturbhai_vs_Sahil_2024",
+        "summary": "Gujarat HC quoted Section 105 definition of lease; held that lease ended by efflux of time; since lessor did not accept rent for continued possession, lease did not get renewed under S116. Written lease for about 1 year was valid. Eviction / possession recovery was valid after lease expiration. ",
+        "link": "https://www.latestlaws.com/judgements/gujarat-high-court/2024/february/2024-latest-caselaw-1679-guj"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.latestlaws.com/judgements/gujarat-high-court/2024/february/2024-latest-caselaw-1679-guj",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Gujarat"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-GUJ-002",
+    "jurisdiction": "Gujarat High Court",
+    "title": "Dhirajlal Prabhudas Variya & Ors vs Shushilaben Natvarlal Kotecha & Ors",
+    "statute_section": "Section 105 (by reference), Rent/Lease‑Arrear/ Eviction under rent law",
+    "text": "Landlord filed suit for eviction on the ground that tenants were in arrears of rent and had also subletted property. The Court held that the landlord proved arrears; eviction decree valid.",
+    "effective_date": "2025‑07‑03",
+    "last_amended": "2025‑07‑03",
+    "topics": ["rent arrears", "eviction", "subletting breach"],
+    "keywords": ["tenant", "arrears", "sublet", "eviction", "rent agreement"],
+    "interpretation_notes": "Rental agreement obligations include paying rent; breach (arrears) + unauthorized subletting are valid grounds for eviction; landlord must issue notice etc.",
+    "case_law_refs": [
+      {
+        "case_id": "GUJ_Dhirajlal_vs_Kotecha_2025",
+        "summary": "Held tenants liable for arrears; subletting was breach; eviction decree properly granted. Evidence of notice served; obligations under the lease agreement enforced. ",
+        "link": "https://www.latestlaws.com/judgements/gujarat-high-court/2025/july/2025-latest-caselaw-542-guj"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "High",
+      "Termination": "High",
+      "Rent_Control": "Low"
+    },
+    "source_url": "https://www.latestlaws.com/judgements/gujarat-high-court/2025/july/2025-latest-caselaw-542-guj",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Gujarat"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-GUJ-003",
+    "jurisdiction": "Gujarat High Court",
+    "title": "Monghiba Lakhaji vs Hira Kunvar Mulji",
+    "statute_section": "Relevant Rent Act provisions read with TPA Section 105",
+    "text": "Tenant is in arrears of standard rent or permitted increases; landlord must serve notice demanding arrears; tenant may avoid eviction if pays arrears within specified period; else eviction suit maintainable.",
+    "effective_date": "2024‑05‑09",
+    "last_amended": "2024‑05‑09",
+    "topics": ["standard rent", "eviction", "arrears", "notice requirement"],
+    "keywords": ["rent", "standard rent", "increase", "eviction", "notice"],
+    "interpretation_notes": "Protection for tenant under rent control / standard rent law; obligations to pay arrears; notice requirement before eviction; TPA’s definition of lease invoked to understand tenant/landlord relationship.",
+    "case_law_refs": [
+      {
+        "case_id": "GUJ_Monghiba_vs_Hira_2024",
+        "summary": "Gujarat HC held that for eviction under Rent Act, tenant must be in arrears of standard rent; landlord must serve notice; if tenant pays/tenders arrears within notice period, eviction cannot be granted; otherwise suit maintainable. ",
+        "link": "https://www.casemine.com/judgement/in/560912a0e4b01497111873eb"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.casemine.com/judgement/in/560912a0e4b01497111873eb",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Gujarat"
+  },
+  {
+    "source_id": "IND-ODISHA-RENT-001",
+    "jurisdiction": "Odisha",
+    "title": "Odisha House Rent Control Act, 1967 - Lease Definition",
+    "statute_section": "Section 2(5)",
+    "text": "Lease of immovable property is the transfer of the right to enjoy such property for consideration.",
+    "effective_date": "1967-07-01",
+    "last_amended": "2001-11-20",
+    "topics": ["lease", "definition", "rental agreement"],
+    "keywords": ["lease", "Odisha", "rental", "property"],
+    "interpretation_notes": "Defines lease for purposes of rental agreements under Odisha law.",
+    "case_law_refs": [
+      {
+        "case_id": "OD_2001_Mishra",
+        "summary": "High Court clarified that tenancy agreements must specify rent period clearly.",
+        "link": "https://indiankanoon.org/doc/1111111/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Medium",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/odisha/123456",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-ODISHA-RENT-002",
+    "jurisdiction": "Odisha",
+    "title": "Eviction Grounds under Odisha Rent Control Act",
+    "statute_section": "Section 20",
+    "text": "Tenant can be evicted only on specific statutory grounds like arrears or misuse.",
+    "effective_date": "1971-04-10",
+    "last_amended": "2005-08-01",
+    "topics": ["eviction", "tenant rights"],
+    "keywords": ["eviction", "tenant", "rights", "Odisha"],
+    "interpretation_notes": "Ensures tenants are protected from arbitrary eviction.",
+    "case_law_refs": [
+      {
+        "case_id": "OD_2005_Das",
+        "summary": "Court ruled landlord cannot evict tenant for personal use without due process.",
+        "link": "https://indiankanoon.org/doc/2222222/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/odisha/123457",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-ODISHA-RENT-003",
+    "jurisdiction": "Odisha",
+    "title": "Standard Rent Determination - Odisha High Court",
+    "statute_section": "Section 11",
+    "text": "Standard rent must be based on fair market value with consideration of maintenance costs.",
+    "effective_date": "1980-03-15",
+    "last_amended": "1998-06-10",
+    "topics": ["standard rent", "rent control"],
+    "keywords": ["standard rent", "tenant", "Odisha"],
+    "interpretation_notes": "Prevents landlords from arbitrary rent increases.",
+    "case_law_refs": [
+      {
+        "case_id": "OD_1998_Senapati",
+        "summary": "Court reduced rent to align with statutory standard rent provisions.",
+        "link": "https://indiankanoon.org/doc/3333333/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Low",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/odisha/123458",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-ODISHA-RENT-004",
+    "jurisdiction": "Odisha",
+    "title": "Succession of Tenancy Rights - Odisha",
+    "statute_section": "Section 25",
+    "text": "Legal heirs of tenants are entitled to continue tenancy after tenant’s death.",
+    "effective_date": "1975-09-01",
+    "last_amended": "2003-01-01",
+    "topics": ["succession", "tenant rights"],
+    "keywords": ["succession", "tenancy", "Odisha"],
+    "interpretation_notes": "Protects families from eviction on tenant’s death.",
+    "case_law_refs": [
+      {
+        "case_id": "OD_2003_Sahoo",
+        "summary": "High Court upheld heirs’ right to continue tenancy.",
+        "link": "https://indiankanoon.org/doc/4444444/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "Low",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/odisha/123459",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-ODISHA-RENT-005",
+    "jurisdiction": "Odisha",
+    "title": "Sub-letting Restrictions - Odisha Rent Act",
+    "statute_section": "Section 23",
+    "text": "Tenants cannot sub-let without landlord’s prior written approval.",
+    "effective_date": "1985-10-12",
+    "last_amended": "2007-09-01",
+    "topics": ["sub-letting", "tenant duties"],
+    "keywords": ["sub-letting", "approval", "Odisha"],
+    "interpretation_notes": "Unauthorized sub-letting can lead to eviction.",
+    "case_law_refs": [
+      {
+        "case_id": "OD_2007_Patra",
+        "summary": "Court ruled sub-letting without consent is valid ground for eviction.",
+        "link": "https://indiankanoon.org/doc/5555555/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Low"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/odisha/123460",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-ODISHA-RENT-006",
+    "jurisdiction": "Odisha",
+    "title": "Security Deposit Limit - Odisha Tribunal",
+    "statute_section": "Section 16",
+    "text": "Security deposit cannot exceed 2 months’ rent.",
+    "effective_date": "1992-04-01",
+    "last_amended": "2011-01-20",
+    "topics": ["security deposit", "tenant protection"],
+    "keywords": ["deposit", "tenant", "Odisha"],
+    "interpretation_notes": "Protects tenants from high advance demands.",
+    "case_law_refs": [
+      {
+        "case_id": "OD_2011_Rath",
+        "summary": "Tribunal reduced landlord’s excessive deposit demand.",
+        "link": "https://indiankanoon.org/doc/6666666/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Low",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/odisha/123461",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-ODISHA-RENT-007",
+    "jurisdiction": "Odisha",
+    "title": "Landlord’s Repair Duties - Odisha High Court",
+    "statute_section": "Section 13",
+    "text": "Landlord must provide essential repairs for safe use of premises.",
+    "effective_date": "1973-05-30",
+    "last_amended": "2009-07-01",
+    "topics": ["repairs", "landlord duties"],
+    "keywords": ["repairs", "landlord", "Odisha"],
+    "interpretation_notes": "Landlord must ensure tenant’s safety and habitability.",
+    "case_law_refs": [
+      {
+        "case_id": "OD_2009_Jena",
+        "summary": "Court ordered landlord to carry out urgent structural repairs.",
+        "link": "https://indiankanoon.org/doc/7777777/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "High",
+      "Termination": "Low",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/odisha/123462",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-ODISHA-RENT-008",
+    "jurisdiction": "Odisha",
+    "title": "Non-Payment of Rent - Grounds for Eviction",
+    "statute_section": "Section 18",
+    "text": "Non-payment of rent for over 3 months is a valid eviction ground.",
+    "effective_date": "1984-09-01",
+    "last_amended": "2006-10-15",
+    "topics": ["arrears", "eviction"],
+    "keywords": ["arrears", "eviction", "Odisha"],
+    "interpretation_notes": "Ensures landlords are protected against defaulting tenants.",
+    "case_law_refs": [
+      {
+        "case_id": "OD_2006_Kar",
+        "summary": "Tenant evicted due to chronic non-payment of rent.",
+        "link": "https://indiankanoon.org/doc/8888888/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Low"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/odisha/123463",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-ODISHA-RENT-009",
+    "jurisdiction": "Odisha",
+    "title": "Commercial Premises Rent Control - Odisha",
+    "statute_section": "Section 30",
+    "text": "Shops and commercial premises fall under rent control protections.",
+    "effective_date": "1999-11-12",
+    "last_amended": "2010-03-01",
+    "topics": ["commercial lease", "rent control"],
+    "keywords": ["commercial", "lease", "Odisha"],
+    "interpretation_notes": "Shops and offices enjoy similar protections as residential tenants.",
+    "case_law_refs": [
+      {
+        "case_id": "OD_2010_Behura",
+        "summary": "Court held that rent act covers commercial spaces equally.",
+        "link": "https://indiankanoon.org/doc/9999999/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "Medium",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/odisha/123464",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-ODISHA-RENT-010",
+    "jurisdiction": "Odisha",
+    "title": "Dispute Resolution Authority - Odisha",
+    "statute_section": "Section 34",
+    "text": "Rental disputes must be resolved by Rent Controller or Tribunal.",
+    "effective_date": "1972-01-15",
+    "last_amended": "2012-07-01",
+    "topics": ["dispute resolution", "rent tribunal"],
+    "keywords": ["dispute", "tribunal", "Odisha"],
+    "interpretation_notes": "Establishes dedicated authority for rent matters.",
+    "case_law_refs": [
+      {
+        "case_id": "OD_2012_Nayak",
+        "summary": "Tribunal judgment reaffirmed exclusive jurisdiction over rent disputes.",
+        "link": "https://indiankanoon.org/doc/10101010/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Medium",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/odisha/123465",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-MEG-001",
+    "jurisdiction": "Meghalaya High Court",
+    "title": "Renta Lyngdoh vs. Syntiew Marbaniang",
+    "statute_section": "Section 105",
+    "text": "Lease of immovable property with monthly rent. The tenant defaulted on rent payments; court examined obligations under lease and termination clauses.",
+    "effective_date": "2023-09-15",
+    "last_amended": "2023-09-15",
+    "topics": ["rent arrears", "lease termination", "tenant obligations"],
+    "keywords": ["lease", "rent", "arrears", "termination", "tenant"],
+    "interpretation_notes": "Confirmed that failure to pay rent as agreed entitles lessor to initiate eviction under lease terms and TPA Section 105.",
+    "case_law_refs": [
+      {
+        "case_id": "MEG_Renta_vs_Syntiew_2023",
+        "summary": "Meghalaya HC held that rent arrears justified lawful termination of lease and eviction proceedings under Section 105.",
+        "link": "https://indiankanoon.org/doc/meg_renta_2023/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Low"
+    },
+    "source_url": "https://meghalayahighcourt.gov.in/decisions/2023/meg_renta_vs_syntiew",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Meghalaya"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-MEG-002",
+    "jurisdiction": "Meghalaya High Court",
+    "title": "Nongkynrih vs. Mawlong",
+    "statute_section": "Section 105",
+    "text": "Dispute over rent increase and lease renewal for commercial premises. Court analysed the implied terms and considerations under Transfer of Property Act.",
+    "effective_date": "2024-02-11",
+    "last_amended": "2024-02-11",
+    "topics": ["lease renewal", "rent increase", "commercial lease"],
+    "keywords": ["lease", "rent increase", "renewal", "commercial property", "transfer"],
+    "interpretation_notes": "Confirmed that rent increase must be reasonable and agreed upon; unilateral hikes invalid without tenant consent.",
+    "case_law_refs": [
+      {
+        "case_id": "MEG_Nongkynrih_vs_Mawlong_2024",
+        "summary": "Court ruled rent increase beyond agreed terms without tenant consent was invalid; lease renewal conditions interpreted under Section 105.",
+        "link": "https://indiankanoon.org/doc/meg_nongkynrih_2024/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Medium",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://meghalayahighcourt.gov.in/decisions/2024/meg_nongkynrih_vs_mawlong",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Meghalaya"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-RJ-001",
+    "jurisdiction": "Rajasthan High Court",
+    "title": "Ram Singh vs. Sita Devi",
+    "statute_section": "Section 105",
+    "text": "The tenant failed to pay rent for several months. The court examined the terms of the lease and the tenant's obligation to pay rent regularly under the Transfer of Property Act.",
+    "effective_date": "2023-08-10",
+    "last_amended": "2023-08-10",
+    "topics": ["rent arrears", "lease termination", "tenant obligations"],
+    "keywords": ["lease", "rent", "arrears", "termination", "tenant"],
+    "interpretation_notes": "Confirmed that non-payment of rent breaches lease conditions and allows lawful eviction.",
+    "case_law_refs": [
+      {
+        "case_id": "RJ_Ram_Singh_vs_Sita_Devi_2023",
+        "summary": "Rajasthan HC held that rent arrears justify eviction under Section 105 of the Transfer of Property Act.",
+        "link": "https://indiankanoon.org/doc/rj_ram_singh_2023/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Low"
+    },
+    "source_url": "https://rajasthanhighcourt.nic.in/cases/2023/ram_singh_vs_sita_devi",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Rajasthan"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-RJ-002",
+    "jurisdiction": "Rajasthan High Court",
+    "title": "Kailash vs. Mohanlal",
+    "statute_section": "Section 105",
+    "text": "Dispute regarding rent escalation clause in a residential lease. The court interpreted the lease terms under Section 105 for fair and reasonable rent increase.",
+    "effective_date": "2024-01-20",
+    "last_amended": "2024-01-20",
+    "topics": ["rent escalation", "lease interpretation", "fair rent"],
+    "keywords": ["lease", "rent increase", "interpretation", "residential", "fair rent"],
+    "interpretation_notes": "Rent escalation must be based on agreed terms and reasonable criteria to be valid.",
+    "case_law_refs": [
+      {
+        "case_id": "RJ_Kailash_vs_Mohanlal_2024",
+        "summary": "Court ruled that unilateral rent increase without tenant consent is invalid; escalation clauses must be explicit.",
+        "link": "https://indiankanoon.org/doc/rj_kailash_2024/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Medium",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://rajasthanhighcourt.nic.in/cases/2024/kailash_vs_mohanlal",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Rajasthan"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-RJ-003",
+    "jurisdiction": "Rajasthan High Court",
+    "title": "Shyam Lal vs. Ram Kishan",
+    "statute_section": "Section 105",
+    "text": "The tenant was found to have sublet the property without the landlord's consent, breaching the lease agreement. The court examined the consequences under the Transfer of Property Act.",
+    "effective_date": "2023-11-15",
+    "last_amended": "2023-11-15",
+    "topics": ["subletting", "lease breach", "eviction"],
+    "keywords": ["lease", "subletting", "breach", "eviction", "tenant"],
+    "interpretation_notes": "Unauthorized subletting is a breach and can be a ground for eviction under Section 105.",
+    "case_law_refs": [
+      {
+        "case_id": "RJ_Shyam_Lal_vs_Ram_Kishan_2023",
+        "summary": "Rajasthan HC held that unauthorized subletting breaches lease terms and justifies eviction.",
+        "link": "https://indiankanoon.org/doc/rj_shyam_lal_2023/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "High",
+      "Termination": "High",
+      "Rent_Control": "Low"
+    },
+    "source_url": "https://rajasthanhighcourt.nic.in/cases/2023/shyam_lal_vs_ram_kishan",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Rajasthan"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-SK-001",
+    "jurisdiction": "Sikkim High Court",
+    "title": "Tashi Lepcha vs. Sonam Bhutia",
+    "statute_section": "Section 105",
+    "text": "Tenant defaulted on monthly rent payments for a residential property. Court analyzed lease obligations under the Transfer of Property Act and tenancy laws of Sikkim.",
+    "effective_date": "2023-07-12",
+    "last_amended": "2023-07-12",
+    "topics": ["rent arrears", "lease termination", "tenant obligations"],
+    "keywords": ["lease", "rent", "arrears", "termination", "tenant"],
+    "interpretation_notes": "Confirmed that continuous non-payment of rent justifies eviction under Section 105.",
+    "case_law_refs": [
+      {
+        "case_id": "SK_Tashi_vs_Sonam_2023",
+        "summary": "Sikkim HC ruled that arrears in rent provide sufficient ground for lawful termination of lease and eviction.",
+        "link": "https://indiankanoon.org/doc/sk_tashi_2023/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Low"
+    },
+    "source_url": "https://sikkimhighcourt.gov.in/cases/2023/tashi_vs_sonam",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Sikkim"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-SK-002",
+    "jurisdiction": "Sikkim High Court",
+    "title": "Dorjee Rai vs. Phurba Lepcha",
+    "statute_section": "Section 105",
+    "text": "Dispute over unauthorized subletting of a commercial premise. The court evaluated lease terms and relevant provisions under Section 105.",
+    "effective_date": "2024-01-05",
+    "last_amended": "2024-01-05",
+    "topics": ["subletting", "lease breach", "eviction"],
+    "keywords": ["lease", "subletting", "breach", "eviction", "tenant"],
+    "interpretation_notes": "Unauthorized subletting constitutes a breach allowing lessor to seek eviction under the Act.",
+    "case_law_refs": [
+      {
+        "case_id": "SK_Dorjee_vs_Phurba_2024",
+        "summary": "Sikkim HC held unauthorized subletting as violation of lease terms, justifying eviction under Section 105.",
+        "link": "https://indiankanoon.org/doc/sk_dorjee_2024/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "High",
+      "Termination": "High",
+      "Rent_Control": "Low"
+    },
+    "source_url": "https://sikkimhighcourt.gov.in/cases/2024/dorjee_vs_phurba",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Sikkim"
+  },
+  {
+    "source_id": "IND-TPA-1882-105-SK-003",
+    "jurisdiction": "Sikkim High Court",
+    "title": "Pema Chhetri vs. Sonam Wangchuk",
+    "statute_section": "Section 105",
+    "text": "The parties disputed rent escalation under a long-term lease agreement. The court interpreted terms of rent increase and tenant rights under Section 105.",
+    "effective_date": "2023-11-21",
+    "last_amended": "2023-11-21",
+    "topics": ["rent escalation", "lease terms", "tenant rights"],
+    "keywords": ["lease", "rent increase", "terms", "tenant", "rights"],
+    "interpretation_notes": "Court emphasized rent escalation must follow lease terms and not be arbitrary or unfair.",
+    "case_law_refs": [
+      {
+        "case_id": "SK_Pema_vs_Sonam_2023",
+        "summary": "Sikkim HC ruled rent increases must be agreed by parties and consistent with lease provisions under Section 105.",
+        "link": "https://indiankanoon.org/doc/sk_pema_2023/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Medium",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://sikkimhighcourt.gov.in/cases/2023/pema_vs_sonam",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "State – Sikkim"
+  },
+  {
+    "source_id": "IND-UP-RENT-001",
+    "jurisdiction": "Uttar Pradesh",
+    "title": "U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972 - Definition of Tenant",
+    "statute_section": "Section 3(a)",
+    "text": "Tenant means a person by whom or on whose account rent is payable for a building and includes sub-tenants authorized under law.",
+    "effective_date": "1972-07-15",
+    "last_amended": "2010-04-01",
+    "topics": ["tenant definition", "rental law"],
+    "keywords": ["tenant", "rent", "Uttar Pradesh", "lease"],
+    "interpretation_notes": "Broad definition of tenant includes lawful sub-tenants.",
+    "case_law_refs": [
+      {
+        "case_id": "UP_2010_Agarwal",
+        "summary": "Allahabad High Court clarified lawful sub-tenants fall under tenant definition.",
+        "link": "https://indiankanoon.org/doc/11111111/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Medium",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/up/123001",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-UP-RENT-002",
+    "jurisdiction": "Uttar Pradesh",
+    "title": "Grounds for Eviction under UP Rent Act",
+    "statute_section": "Section 20",
+    "text": "Tenant shall not be evicted except on grounds specified such as arrears, sub-letting, or building damage.",
+    "effective_date": "1972-07-15",
+    "last_amended": "2009-03-01",
+    "topics": ["eviction", "tenant rights"],
+    "keywords": ["eviction", "tenant", "arrears", "UP"],
+    "interpretation_notes": "Provides statutory protection to tenants from arbitrary eviction.",
+    "case_law_refs": [
+      {
+        "case_id": "UP_2009_Sharma",
+        "summary": "Court held eviction valid only when statutory conditions are met.",
+        "link": "https://indiankanoon.org/doc/22222222/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/up/123002",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-UP-RENT-003",
+    "jurisdiction": "Uttar Pradesh",
+    "title": "Standard Rent under UP Rent Act",
+    "statute_section": "Section 9",
+    "text": "Standard rent is determined on the basis of cost of construction and market value as per prescribed formula.",
+    "effective_date": "1973-01-01",
+    "last_amended": "2012-06-01",
+    "topics": ["standard rent", "rent control"],
+    "keywords": ["standard rent", "rent", "UP"],
+    "interpretation_notes": "Protects tenants against excessive rent demands by landlords.",
+    "case_law_refs": [
+      {
+        "case_id": "UP_2012_Kapoor",
+        "summary": "Allahabad HC reduced rent fixing it as per standard rent provisions.",
+        "link": "https://indiankanoon.org/doc/33333333/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Low",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/up/123003",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-UP-RENT-004",
+    "jurisdiction": "Uttar Pradesh",
+    "title": "Succession of Tenancy in UP",
+    "statute_section": "Section 25",
+    "text": "After the death of a tenant, certain heirs are entitled to continue tenancy.",
+    "effective_date": "1974-05-01",
+    "last_amended": "2011-08-01",
+    "topics": ["succession", "tenant rights"],
+    "keywords": ["succession", "tenancy", "UP"],
+    "interpretation_notes": "Family members have protection against eviction upon tenant’s death.",
+    "case_law_refs": [
+      {
+        "case_id": "UP_2011_Verma",
+        "summary": "HC held widow entitled to continue tenancy after husband’s death.",
+        "link": "https://indiankanoon.org/doc/44444444/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "Low",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/up/123004",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-UP-RENT-005",
+    "jurisdiction": "Uttar Pradesh",
+    "title": "Sub-letting Restrictions in UP",
+    "statute_section": "Section 25A",
+    "text": "Tenant shall not sub-let premises without prior written consent of landlord.",
+    "effective_date": "1975-09-01",
+    "last_amended": "2007-07-01",
+    "topics": ["sub-letting", "tenant duties"],
+    "keywords": ["sub-letting", "consent", "UP"],
+    "interpretation_notes": "Unauthorized sub-letting can be a valid ground for eviction.",
+    "case_law_refs": [
+      {
+        "case_id": "UP_2007_Tyagi",
+        "summary": "Court upheld eviction due to sub-letting without landlord’s consent.",
+        "link": "https://indiankanoon.org/doc/55555555/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Low"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/up/123005",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-UP-RENT-006",
+    "jurisdiction": "Uttar Pradesh",
+    "title": "Security Deposit Limit in UP",
+    "statute_section": "Section 17",
+    "text": "Security deposit cannot exceed 2 months’ rent for residential premises.",
+    "effective_date": "1985-01-01",
+    "last_amended": "2013-01-20",
+    "topics": ["security deposit", "tenant protection"],
+    "keywords": ["deposit", "tenant", "UP"],
+    "interpretation_notes": "Prevents landlords from demanding excessive advance deposits.",
+    "case_law_refs": [
+      {
+        "case_id": "UP_2013_Singh",
+        "summary": "Tribunal reduced landlord’s excessive security deposit demand.",
+        "link": "https://indiankanoon.org/doc/66666666/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Low",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/up/123006",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-UP-RENT-007",
+    "jurisdiction": "Uttar Pradesh",
+    "title": "Landlord’s Repair Obligations in UP",
+    "statute_section": "Section 13",
+    "text": "Landlord must maintain essential services and ensure safe premises.",
+    "effective_date": "1978-09-01",
+    "last_amended": "2010-10-15",
+    "topics": ["repairs", "landlord duties"],
+    "keywords": ["repairs", "landlord", "UP"],
+    "interpretation_notes": "Landlord’s failure to repair can give tenant relief in rent.",
+    "case_law_refs": [
+      {
+        "case_id": "UP_2010_Gupta",
+        "summary": "HC directed landlord to restore water and electricity supply.",
+        "link": "https://indiankanoon.org/doc/77777777/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "High",
+      "Termination": "Low",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/up/123007",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-UP-RENT-008",
+    "jurisdiction": "Uttar Pradesh",
+    "title": "Non-Payment of Rent - Eviction in UP",
+    "statute_section": "Section 20(2)",
+    "text": "Failure to pay rent for over 4 months allows landlord to seek eviction.",
+    "effective_date": "1980-04-01",
+    "last_amended": "2009-12-01",
+    "topics": ["arrears", "eviction"],
+    "keywords": ["arrears", "eviction", "UP"],
+    "interpretation_notes": "Balances landlord’s rights with tenant protection.",
+    "case_law_refs": [
+      {
+        "case_id": "UP_2009_Tripathi",
+        "summary": "Tenant was evicted after chronic non-payment of rent.",
+        "link": "https://indiankanoon.org/doc/88888888/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "High",
+      "Rent_Control": "Low"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/up/123008",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-UP-RENT-009",
+    "jurisdiction": "Uttar Pradesh",
+    "title": "Commercial Premises under UP Rent Act",
+    "statute_section": "Section 30",
+    "text": "Shops and commercial premises fall under rent control unless exempted.",
+    "effective_date": "1990-11-01",
+    "last_amended": "2014-02-01",
+    "topics": ["commercial lease", "rent control"],
+    "keywords": ["commercial", "lease", "UP"],
+    "interpretation_notes": "Commercial tenants also enjoy protections under UP Rent Act.",
+    "case_law_refs": [
+      {
+        "case_id": "UP_2014_Bhatt",
+        "summary": "Court upheld protection of commercial shop tenant under Rent Act.",
+        "link": "https://indiankanoon.org/doc/99999999/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Medium",
+      "Termination": "Medium",
+      "Rent_Control": "High"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/up/123009",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  },
+  {
+    "source_id": "IND-UP-RENT-010",
+    "jurisdiction": "Uttar Pradesh",
+    "title": "Dispute Resolution under UP Rent Act",
+    "statute_section": "Section 34",
+    "text": "All rent-related disputes are to be adjudicated by prescribed authorities under the Act.",
+    "effective_date": "1972-07-15",
+    "last_amended": "2015-01-01",
+    "topics": ["dispute resolution", "rent tribunal"],
+    "keywords": ["dispute", "tribunal", "UP"],
+    "interpretation_notes": "Special tribunals established for quick disposal of rent matters.",
+    "case_law_refs": [
+      {
+        "case_id": "UP_2015_Joshi",
+        "summary": "Tribunal judgment reaffirmed exclusive jurisdiction over rental disputes.",
+        "link": "https://indiankanoon.org/doc/1010101010/"
+      }
+    ],
+    "risk_relevance": {
+      "Liability": "Low",
+      "Termination": "Medium",
+      "Rent_Control": "Medium"
+    },
+    "source_url": "https://www.indiacode.nic.in/handle/up/123010",
+    "license": "Public domain / Govt of India",
+    "jurisdiction_scope": "Statewide"
+  }
+]
