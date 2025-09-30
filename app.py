@@ -10,7 +10,7 @@ from langchain.prompts import PromptTemplate
 from langchain_community.vectorstores import FAISS  
 from langchain_pinecone import PineconeVectorStore  
 from pinecone import Pinecone
-from langchain.chains import LLMChain
+from langchain.chains import LLMChain 
 import pytesseract
 from PIL import Image 
 
