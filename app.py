@@ -12,7 +12,7 @@ from langchain_pinecone import PineconeVectorStore
 from pinecone import Pinecone
 from langchain.chains import LLMChain
 import pytesseract
-from PIL import Image
+from PIL import Image 
 
 EMBEDDING_MODEL_NAME = "hkunlp/instructor-large"
 LLM_MODEL_NAME = "gemini-1.5-flash"
